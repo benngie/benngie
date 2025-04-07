@@ -48,3 +48,13 @@ Entry-level cybersecurity enthusiast passionate about threat detection and secur
 [![IBM IT Support](https://img.shields.io/badge/IBM-IT_Support_Technician-052FAD?logo=ibm&logoColor=white)](https://skillsbuild.org/certificates/your-certificate-id)
 
 ## 📂 Projects
+- SQL Queries - New york restuarants
+- create a table - SQL manipulation
+- Data visualisation
+- python projects
+- splunk
+- cyber security resilience and risk management
+- IDS/IPS
+- fortinet
+- microsoft defender
+
