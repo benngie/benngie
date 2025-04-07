@@ -57,4 +57,5 @@ Entry-level cybersecurity enthusiast passionate about threat detection and secur
 - IDS/IPS
 - fortinet
 - microsoft defender
+- phishing analysis
 
